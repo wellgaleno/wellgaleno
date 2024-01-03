@@ -47,8 +47,9 @@ I'm an frontend developer, aiming to become a software engineer.
 <h2>📫 How to reach me</h2>
 
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /> <br><br>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+  <a href="https://www.linkedin.com/in/wellington-galeno/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /></a>
+  <br><br>
+  <a href="mailto:well.galeno@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
   
 </div>
 
