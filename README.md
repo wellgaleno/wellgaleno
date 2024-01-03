@@ -12,21 +12,46 @@ I'm an frontend developer, aiming to become a software engineer.
 
 <h2>🛠️ Technologies & Tools</h2>
 
-<h3>Front End</h3>
+<h3>FrontEnd</h3>
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16px"/> JavaScript |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16px"/> React.js |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16px"/> Vue.js |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="16px" /> Vuetify
+</div>
 
+<h3>BackEnd</h3>
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16px"/> Node.js
+</div>
 
-<h3>Back End</h3>
+<h3>Mobile</h3>
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="16px" /> React Native
+</div>
+
+<h3>DevOps</h3>
+
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="16px" /> AWS
+</div>
+
+<h3>Data Science</h3>
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16px"/> Python |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="16px"/> Pandas |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16px"/> NumPy
+  
+</div>
+
+<h2>📫 How to reach me</h2>
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /> <br><br>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
+  
+</div>
+
+<h2> </h2>
 
 ✨ **In my nature, dreaming small isn't my style.** ✨
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wellgaleno&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wellgaleno&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wellgaleno&show_icons=true" />
-</picture>
