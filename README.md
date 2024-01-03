@@ -65,7 +65,7 @@ I'm an frontend developer, aiming to become a software engineer.
 </div>
 
 <div align="center">
-  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/18462796-809b-40e0-99dd-dfec17eea15f" width="500px" />
+  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/d3fb14df-0278-4117-9a82-c16bc4b42f29" width="300px" />
 </div>
 
 <div align="center">
