@@ -1,6 +1,6 @@
-<h1>Hi there, I’m Wellington Galeno! ✌😊</h1>
+<h1>Hi there, I’m Wellington Galeno!👋</h1>
 
-<h2>About Me </h2>
+<h2>About Me✌😊</h2>
 
 I'm an frontend developer, aiming to become a software engineer.
 
@@ -10,7 +10,7 @@ I'm an frontend developer, aiming to become a software engineer.
 🎓 I'm studying Analysis and Systems Development at Veiga de Almeida University.</br>
 📊 I have experience with Data Science that helps me better understand business.
 
-<h2>🛠️ Technologies & Tools</h2>
+<h2>Technologies & Tools 🛠️</h2>
 
 <h3>FrontEnd</h3>
 <div style="display: inline-block">
