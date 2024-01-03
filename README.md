@@ -10,6 +10,10 @@ I'm an frontend developer, aiming to become a software engineer.
 🎓 I'm studying Analysis and Systems Development at Veiga de Almeida University.</br>
 📊 I have experience with Data Science that helps me better understand business.
 
+<div align="left">
+  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/26003dac-fa4e-4254-8d29-a9881e9c1ca7" width="200px" />
+</div>
+
 <h2>Technologies & Tools 🛠️</h2>
 
 <h3>FrontEnd</h3>
