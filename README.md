@@ -1,6 +1,6 @@
 <h1>Hi there, I’m Wellington Galeno!👋</h1>
 
-<h2>About Me✌😊</h2>
+<h2>✌ About Me</h2>
 
 I'm an frontend developer, aiming to become a software engineer.
 
@@ -14,7 +14,7 @@ I'm an frontend developer, aiming to become a software engineer.
   <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/26003dac-fa4e-4254-8d29-a9881e9c1ca7" width="200px" />
 </div>
 
-<h2>Technologies & Tools 🛠️</h2>
+<h2>💻 Technologies & Tools</h2>
 
 <h3>FrontEnd</h3>
 <div style="display: inline-block">
