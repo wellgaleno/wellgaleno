@@ -44,7 +44,7 @@ I'm an frontend developer, aiming to become a software engineer.
   
 </div>
 
-<h2>📫 How to reach out to me</h2>
+<h2>📫 Connect with me</h2>
 
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/wellington-galeno/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /></a>
@@ -57,3 +57,5 @@ I'm an frontend developer, aiming to become a software engineer.
 <h2> </h2>
 
 ✨ **In my nature, dreaming small isn't my style.** ✨
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
