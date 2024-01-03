@@ -58,10 +58,20 @@ I'm an frontend developer, aiming to become a software engineer.
 
 <h2> </h2>
 
+<div align="center">
+  
 ✨ **In my nature, dreaming small isn't my style.** ✨
+  
+</div>
 
+<div align="center">
+  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/18462796-809b-40e0-99dd-dfec17eea15f" width="500px" />
+</div>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wellgaleno/wellgaleno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wellgaleno/wellgaleno/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wellgaleno/wellgaleno/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
