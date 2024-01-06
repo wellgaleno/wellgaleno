@@ -4,11 +4,12 @@
 
 I'm an frontend developer, aiming to become a software engineer.
 
-💡 My greatest skill and passion lie in generating innovative ideas to solve real-world problems.</br>
-🔍 Exploring new technologies is something that attracts me; I'm always eager to learn.</br>
-📱 Currently, I'm deeply involved in React Native for mobile app development.</br>
-🎓 I'm studying Analysis and Systems Development at Veiga de Almeida University.</br>
-📊 I have experience with Data Science that helps me better understand business.
+
+💡 I excel at generating innovative solutions for real-world issues.</br>
+🔍 I'm passionate about exploring new technologies and always eager to learn.</br>
+📱 Currently immersed in React Native for mobile app development.</br>
+🎓 Studying Analysis and Systems Development at Veiga de Almeida University.</br>
+📊 Experienced in Data Science, enhancing my business understanding.
 
 <div align="left">
   <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/26003dac-fa4e-4254-8d29-a9881e9c1ca7" width="200px" />
