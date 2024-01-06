@@ -4,9 +4,8 @@
 
 I'm an frontend developer, aiming to become a software engineer.
 
-
-💡 I excel at generating innovative solutions for real-world issues.</br>
-🔍 I'm passionate about exploring new technologies and always eager to learn.</br>
+💡 I'm passionate about crafting innovative solutions for real-world problems.</br>
+🔍 Exploring new technologies is something I'm extremely keen on, and I'm always eager to learn.</br>
 📱 Currently immersed in React Native for mobile app development.</br>
 🎓 Studying Analysis and Systems Development at Veiga de Almeida University.</br>
 📊 Experienced in Data Science, enhancing my business understanding.
